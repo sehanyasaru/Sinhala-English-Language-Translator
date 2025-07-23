@@ -1,5 +1,7 @@
 # Sinhala-English Translator
 
+![rathana](https://github.com/user-attachments/assets/17b72e7a-0abb-4bb5-ace4-fd4ebc33cbc6)
+
 A web-based application for real-time translation between Sinhala and English languages, designed to assist language learners and enthusiasts.
 
 ## Features
